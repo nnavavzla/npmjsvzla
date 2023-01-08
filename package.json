@@ -1,0 +1,24 @@
+{
+  "name": "npmjsvzla",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnavavzla/npmjsvzla.git"
+  },
+  "keywords": [],
+  "author": "Nick N. Nava Test",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnavavzla/npmjsvzla/issues"
+  },
+  "homepage": "https://github.com/nnavavzla/npmjsvzla#readme",
+  "bin" : {
+    "npmjsvzla" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
